@@ -23,7 +23,6 @@ Sistema de delivery com serviços para realizar pedidos e pagamentos.
 1. Clone o repositório para sua máquina
 2. Abra um terminal e navegue até o repositório
 3. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
-4. Acessar pelo endereço [http://localhost:8081](http://localhost:8081)
 
 ### Gateway
 1. Clone o repositório para sua máquina
@@ -34,10 +33,9 @@ Sistema de delivery com serviços para realizar pedidos e pagamentos.
 1. Clone o repositório para sua máquina
 2. Abra um terminal e navegue até o repositório
 3. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
-4. Acessar pelo endereço [http://localhost:8082/pedidos-ms/pedidos](http://localhost:8082/pedidos-ms/pedidos)
 
 ### Pagamentos
 1. Clone o repositório para sua máquina
 2. Abra um terminal e navegue até o repositório
 3. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
-4. Acessar pelo endereço [http://localhost:8082/pagamentos-ms/pagamentos](http://localhost:8082/pagamentos-ms/pagamentos)
+4. Utilizando o Postman, fazer requisições para os endpoints implementados
