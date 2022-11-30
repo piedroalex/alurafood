@@ -32,10 +32,12 @@ Sistema de delivery com serviços para realizar pedidos e pagamentos.
 ### Pedidos
 1. Clone o repositório para sua máquina
 2. Abra um terminal e navegue até o repositório
-3. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
+3. Execute o comando: ```git reset --hard v1.0.0```
+4. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
 
 ### Pagamentos
 1. Clone o repositório para sua máquina
 2. Abra um terminal e navegue até o repositório
-3. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
-4. Utilizando o Postman, fazer requisições para os endpoints implementados
+3. Execute o comando: ```git reset --hard v1.0.0```
+4. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
+5. Utilizando o Postman, fazer requisições para os endpoints implementados
